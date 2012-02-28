@@ -1,1 +1,36 @@
-Albert Johe rulezzz
+Global setup:
+
+ Set up git
+  git config --global user.name "Your Name"
+  git config --global user.email albert.johe@gmail.com
+      
+
+Next steps:
+
+  mkdir ResiduM-nim
+  cd ResiduM-nim
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin git@github.com:nagiro/ResiduM-nim.git
+  git push -u origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin git@github.com:nagiro/ResiduM-nim.git
+  git push -u origin master
+      
+
+Importing a Subversion Repo?
+
+  Click here
+      
+
+When you're done:
+
+  Continue
+
+
